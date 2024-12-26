@@ -1,0 +1,5 @@
+sudo apt remove --purge --auto-remove -y git
+sudo add-apt-repository ppa:git-core/ppa -y
+sudo apt-get update
+sudo apt-get install git -y
+git --version
