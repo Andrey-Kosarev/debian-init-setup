@@ -8,11 +8,11 @@ sudo apt install python-software-properties -y
 
 
 # run scripts
-./install_apt_packages.sh
+sudo ./install_apt_packages.sh
 
-./install_latest_nvim.sh
-./install_latest_git.sh
-./install_latest_python.sh
+sudo ./install_latest_nvim.sh
+sudo ./install_latest_git.sh
+sudo ./install_latest_python.sh
 
 #aliases
-./add_aliases.sh
+sudo ./add_aliases.sh
