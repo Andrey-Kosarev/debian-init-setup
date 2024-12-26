@@ -1,1 +1,1 @@
-sudo apt install tree -y;
+sudo apt install -y tree wget curl;
